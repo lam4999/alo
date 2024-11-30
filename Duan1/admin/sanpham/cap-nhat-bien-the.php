@@ -18,7 +18,7 @@
                 <input class="form-control" type="text" name="ten" value="<?=$ten?>" disabled style='background:#EDF5FF'>
               </div>
               <div class="form-group col-md-3">
-                <label class="control-label">Thể tích</label>
+                <label class="control-label">Màu sắc</label>
                 <input class="form-control" type="text" disabled name="mausac" value="<?=$mausac?>"  style='background:#EDF5FF'>
               </div>
               <div class="form-group col-md-3">

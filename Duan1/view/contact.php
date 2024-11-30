@@ -53,9 +53,9 @@
           <div class="single-contact-block">
             <h4><i class="fa fa-phone"></i> Số điện thoại</h4>
             <p>
-              <a href="tel:987654321">Mobile: (+84) 396 123 219</a>
+              <a href="tel:987654321">Mobile:0354 948 492 </a>
             </p>
-            <p><a href="tel:0988753813">Hotline: 0869 508 529</a></p>
+            <p><a href="tel:0988753813">Hotline:0354948492 </a></p>
           </div>
 
           <!-- End of single contact block -->
@@ -65,10 +65,12 @@
           <div class="single-contact-block">
             <h4><i class="fas fa-envelope"></i> Email</h4>
             <p>
-              <a href="mailto:ducduongthang@fpt.edu.vn">ducduongthang@fpt.edu.vn</a>
+              <a href="mailto:tranbaominh@fpt.edu.vn">tranbaominh@fpt.edu.vn</a>
+            <p><a href="mailto:lam@fpt.edu.vn">dotunglam@fpt.edu.vn</a></p>
+            <a href="mailto:hieu@fpt.edu.vn">doanduchieu@fpt.edu.vn</a>
             </p>
             <p>
-              <a href="mailto:perfumeshop@gmail.com">perfumeshop@gmail.com</a>
+              <a href="mailto:queenstoreshop@gmail.com">queenstoreshop@gmail.com</a>
             </p>
           </div>
 
@@ -77,7 +79,7 @@
 
         <!--=======  End of contact page side content  =======-->
       </div>
-    
+
     </div>
   </div>
 </section>

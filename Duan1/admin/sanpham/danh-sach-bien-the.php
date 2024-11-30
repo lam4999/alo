@@ -48,7 +48,7 @@
                             <thead>
                                 <tr>
                                     <th>#</th>
-                                    <th>Thể tích</th>
+                                    <th>Màu sắc</th>
                                     <th>Số lượng</th>
                                     <th>Tình trạng</th>
                                     <th>Giá tiền</th>

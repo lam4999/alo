@@ -34,7 +34,6 @@
                                 <th>Tên đăng nhập</th>
                                 <th>Email</th>
                                 <th>Điện thoại</th>
-                                <th>Mật khẩu</th>
                                 <th>Địa chỉ</th>
                                 <th>Vai trò</th>
                                 <th>Chức năng</th>
@@ -58,7 +57,6 @@
                                 <td>'.$hoten.' </td>
                                 <td>'.$email.'</td>
                                 <td>'. $sdt .'</td>
-                                <td>'. $matkhau .'</td>
                                 <td>'. $diachi .'</td>
                                 <td> '.$vaitro .'</td>
                                 

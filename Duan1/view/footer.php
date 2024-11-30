@@ -47,6 +47,7 @@
             <ul class="footer-menu">
               <li><a href="index.php?act=gioithieu">Queen Store</a></li>
               <li><a href="index.php?act=lienhe">Liên hệ</a></li>
+              <li><a href="index.php?act=thongtin">Blog</a></li>
             </ul>
             <!-- footer-menu end -->
           </div>
@@ -72,28 +73,6 @@
       </div>
     </div>
   </div>
-  <!-- footer bottom end -->
-  <!-- coppy-right start -->
-  <!-- <div class="coppy-right bg-dark py-15">
-    <div class="container">
-      <div class="row">
-        <div class="col-12 col-md-6 col-xl-4 order-last order-md-first">
-          <div class="text-md-start text-center mt-3 mt-md-0">
-            <p>
-              Copyright &copy; <a href="https://hasthemes.com/">HasThemes</a>.
-              All Rights Reserved
-            </p>
-          </div>
-        </div>
-        <div class="col-12 col-md-6 col-xl-8">
-          <div class="text-md-end text-center">
-            <img src="view/assets/img/payment/1.png" alt="img" />
-          </div>
-        </div>
-      </div>
-    </div>
-  </div> -->
-  <!-- coppy-right end -->
 </footer>
 <!-- footer end -->
 <script src="view/assets/js/vendor/jquery-3.6.0.min.js"></script>

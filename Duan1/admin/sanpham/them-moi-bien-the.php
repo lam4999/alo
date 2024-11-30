@@ -18,7 +18,7 @@
                 <input class="form-control" type="text" name="ten" value="<?=$sanpham['ten']?>" disabled style='background:#EDF5FF'>
               </div>
               <div class="form-group col-md-3">
-                <label for="exampleSelect1" class="control-label">Thể tích</label>
+                <label for="exampleSelect1" class="control-label">Màu sắc</label>
                 <select class="form-control"  name="id_mausac">
                   <?php foreach($listmausac as $mausac):?>
                     <option value="<?=$mausac['id']?>" 
@@ -48,7 +48,7 @@
               </div>
           </div>
           <div class="ghichu" style="margin-bottom:10px; color:#b0aeae">
-                <span>*Không thể thêm thể tích mà sản phẩm đã có trước đó.</span>    
+                <span>*Không thể thêm Màu sắc mà sản phẩm đã có trước đó.</span>    
           </div>
           <input type="hidden" name="id_sanpham" value="<?=$sanpham['id']?>">
           <input type="submit" class="btn btn-save" value="Lưu Lại" name="themmoi">

@@ -2,7 +2,7 @@
 <html lang="en">
 
 <head>
-  <title>Quản trị Admin 
+  <title>Quản trị Admin
   </title>
   <meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -18,7 +18,7 @@
   <script src="https://cdnjs.cloudflare.com/ajax/libs/sweetalert/2.1.2/sweetalert.min.js"></script>
   <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.8.2/css/all.css">
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/jquery-confirm/3.3.2/jquery-confirm.min.css">
-  
+
 
 </head>
 
@@ -52,7 +52,7 @@
       <li><a class="app-menu__item " href="index.php"><i class='app-menu__icon bx bx-tachometer'></i><span
             class="app-menu__label">Bảng điều khiển</span></a></li>
       <li><a class="app-menu__item" href="index.php?act=danh-sach-danh-muc"><i
-              class='app-menu__icon bx bxs-category-alt'></i><span class="app-menu__label">Quản lý danh mục</span></a>
+            class='app-menu__icon bx bxs-category-alt'></i><span class="app-menu__label">Quản lý danh mục</span></a>
       </li>
       <li><a class="app-menu__item" href="index.php?act=danh-sach-san-pham"><i
             class='app-menu__icon bx bx-purchase-tag-alt'></i><span class="app-menu__label">Quản lý sản phẩm</span></a>

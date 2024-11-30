@@ -19,13 +19,13 @@ try {
     $mail->isSMTP();                                      // Set mailer to use SMTP
     $mail->Host = 'smtp.gmail.com';                       // Specify main and backup SMTP servers
     $mail->SMTPAuth = true;                               // Enable SMTP authentication
-    $mail->Username = 'perfumeshopdak@gmail.com';                 // SMTP username
+    $mail->Username = 'QueenStore@gmail.com';                 // SMTP username
     $mail->Password = 'phfazkrtzwzktbkv';                           // SMTP password
     $mail->SMTPSecure = 'tls';                            // Enable TLS encryption, `ssl` also accepted
     $mail->Port = 587;                                    // TCP port to connect to
 
     //Recipients
-    $mail->setFrom('perfumeshopdak@gmail.com', 'Shop Perfume');
+    $mail->setFrom('QueenStore@gmail.com', 'Queen Store');
     $mail->addAddress($email, 'Datdzs1tg');     // Add a recipient
     // $mail->addReplyTo('info@example.com', 'Information');
     // $mail->addCC('cc@example.com');
@@ -37,9 +37,8 @@ try {
 
     //Content
     $mail->isHTML(true);                                  // Set email format to HTML
-    $mail->Subject = 'PERFUME SHOP XIN CAM ON QUY KHACH';
-    $mail->Body = 'Chúng tôi trân trọng cảm ơn bạn đã lựa chọn mua sắm tại cửa hàng "Perfume Shop". Sự ủng hộ của bạn là nguồn động viên lớn, và chúng tôi hy vọng bạn sẽ thấy hài lòng với sản phẩm của mình. Hãy liên hệ nếu có bất kỳ điều gì chúng tôi có thể hỗ trợ.';
-    // $mail->AltBody = 'Trân trọng,"Perfume Shop"';
+    $mail->Subject = 'Queen Store XIN CAM ON QUY KHACH';
+    $mail->Body = 'Chúng tôi trân trọng cảm ơn bạn đã lựa chọn mua sắm tại cửa hàng "Queen Store". Sự ủng hộ của bạn là nguồn động viên lớn, và chúng tôi hy vọng bạn sẽ thấy hài lòng với sản phẩm của mình. Hãy liên hệ nếu có bất kỳ điều gì chúng tôi có thể hỗ trợ.';
 
     $mail->send();
 } catch (Exception $e) {

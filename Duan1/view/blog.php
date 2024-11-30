@@ -7,7 +7,7 @@
       <div class="col-12">
         <div class="section-title text-center">
           <h2 class="title pb-4 text-dark text-capitalize">
-            Tin Tức
+            Blog
           </h2>
         </div>
       </div>
@@ -15,7 +15,7 @@
         <ol class="breadcrumb bg-transparent m-0 p-0 align-items-center justify-content-center">
           <li class="breadcrumb-item"><a href="index.html">Trang Chủ</a></li>
           <li class="breadcrumb-item active" aria-current="page">
-            Tin Tức
+            Blog
           </li>
         </ol>
       </div>
@@ -23,218 +23,82 @@
   </div>
 </nav>
 <!-- breadcrumb-section end -->
-<!-- product tab start -->
-<section class="blog-section py-80">
+
+<!-- fashion block start -->
+<section class="fashion-section py-80">
   <div class="container">
     <div class="row">
+      <!-- Single blog post -->
       <div class="col-12 col-md-6 col-lg-4 col-xl-4 mb-30">
         <div class="single-blog text-start">
           <a class="blog-thumb mb-20 zoom-in d-block overflow-hidden" href="single-blog.html">
-            <img src="" alt="blog-thumb-naile" />
+            <img src="upload/13.webp" alt="fashion-thumbnail-1" />
           </a>
           <div class="blog-post-content">
             <p class="sub-title">
-              Posted by
-              <a class="blog-link" href="https://themeforest.net/user/hastech">HasTech</a>
-              12 Nov, 2023
+              Đăng bởi
+              <a class="blog-link" href="#">Thời Trang QueenStore</a>
+              30 Tháng 11, 2024
             </p>
             <h3 class="title mb-15 mt-15">
-              <a href="single-blog.html">This is first Post For Blog</a>
+              <a href="single-blog.html">Xu Hướng Mùa Đông 2024</a>
             </h3>
             <p class="text">
-              Posted by HasTech dummy text of the printing and typesetting
-              industry. Lorem Ipsum has been the industrys standard dummy text
-              ever since the 1500s, when ...
+              Tìm hiểu xu hướng thời trang mùa đông năm nay với các kiểu áo khoác ấm áp, phụ kiện nổi bật và cách phối đồ thời thượng...
             </p>
-            <a class="read-more" href="single-blog.html">Read More</a>
+            <a class="read-more" href="single-blog.html">Đọc thêm</a>
           </div>
         </div>
       </div>
+      <!-- Repeat for additional blog posts -->
+      <!-- Example post 2 -->
       <div class="col-12 col-md-6 col-lg-4 col-xl-4 mb-30">
         <div class="single-blog text-start">
           <a class="blog-thumb mb-20 zoom-in d-block overflow-hidden" href="single-blog.html">
-            <img src="view/assets/img/blog-post/2.png" alt="blog-thumb-naile" />
+            <img src="upload/6.webp" alt="fashion-thumbnail-2" />
           </a>
           <div class="blog-post-content">
             <p class="sub-title">
-              Posted by
-              <a class="blog-link" href="https://themeforest.net/user/hastech">HasTech</a>
-              12 Nov, 2023
+              Đăng bởi
+              <a class="blog-link" href="#">Thời Trang QueenStore</a>
+              25 Tháng 11, 2024
             </p>
             <h3 class="title mb-15 mt-15">
-              <a href="single-blog.html">This is second Post For Blog</a>
+              <a href="single-blog.html">5 Cách Phối Đồ Với Váy Dài</a>
             </h3>
             <p class="text">
-              Posted by HasTech dummy text of the printing and typesetting
-              industry. Lorem Ipsum has been the industrys standard dummy text
-              ever since the 1500s, when ...
+              Khám phá 5 cách phối đồ với váy dài vừa thoải mái vừa thời trang, phù hợp với mọi hoàn cảnh và phong cách...
             </p>
-            <a class="read-more" href="single-blog.html">Read More</a>
+            <a class="read-more" href="single-blog.html">Đọc thêm</a>
           </div>
         </div>
       </div>
-      <div class="col-12 col-md-6 col-lg-4 col-xl-4 mb-30">
-        <div class="single-blog text-start">
+
+
+      <div class="col-12 col-md-6 col-lg-4 col-xl-4 mb-30"> <div class="single-blog text-start">
           <a class="blog-thumb mb-20 zoom-in d-block overflow-hidden" href="single-blog.html">
-            <img src="view/assets/img/blog-post/3.png" alt="blog-thumb-naile" />
+            <img src="upload/3,2.webp" alt="fashion-thumbnail-2" />
           </a>
           <div class="blog-post-content">
             <p class="sub-title">
-              Posted by
-              <a class="blog-link" href="https://themeforest.net/user/hastech">HasTech</a>
-              12 Nov, 2023
+              Đăng bởi
+              <a class="blog-link" href="#">Thời Trang QueenStore</a>
+              29 Tháng 11, 2024
             </p>
             <h3 class="title mb-15 mt-15">
-              <a href="single-blog.html">This is third Post For Blog</a>
+              <a href="single-blog.html">Xu hướng mùa hè của phái nữ</a>
             </h3>
             <p class="text">
-              Posted by HasTech dummy text of the printing and typesetting
-              industry. Lorem Ipsum has been the industrys standard dummy text
-              ever since the 1500s, when ...
+             Mùa hè là mùa nóng nực lên cần phải dùng những tông vài mềm,mỏng,nhẽ dễ dàng thoát mồ hôi và thoáng gió...
             </p>
-            <a class="read-more" href="single-blog.html">Read More</a>
+            <a class="read-more" href="single-blog.html">Đọc thêm</a>
           </div>
         </div>
       </div>
-      <div class="col-12 col-md-6 col-lg-4 col-xl-4 mb-30">
-        <div class="single-blog text-start">
-          <a class="blog-thumb mb-20 zoom-in d-block overflow-hidden" href="single-blog.html">
-            <img src="view/assets/img/blog-post/2.png" alt="blog-thumb-naile" />
-          </a>
-          <div class="blog-post-content">
-            <p class="sub-title">
-              Posted by
-              <a class="blog-link" href="https://themeforest.net/user/hastech">HasTech</a>
-              12 Nov, 2023
-            </p>
-            <h3 class="title mb-15 mt-15">
-              <a href="single-blog.html">This is four Post For Blog</a>
-            </h3>
-            <p class="text">
-              Posted by HasTech dummy text of the printing and typesetting
-              industry. Lorem Ipsum has been the industrys standard dummy text
-              ever since the 1500s, when ...
-            </p>
-            <a class="read-more" href="single-blog.html">Read More</a>
-          </div>
-        </div>
-      </div>
-      <div class="col-12 col-md-6 col-lg-4 col-xl-4 mb-30">
-        <div class="single-blog text-start">
-          <a class="blog-thumb mb-20 zoom-in d-block overflow-hidden" href="single-blog.html">
-            <img src="view/assets/img/blog-post/3.png" alt="blog-thumb-naile" />
-          </a>
-          <div class="blog-post-content">
-            <p class="sub-title">
-              Posted by
-              <a class="blog-link" href="https://themeforest.net/user/hastech">HasTech</a>
-              12 Nov, 2023
-            </p>
-            <h3 class="title mb-15 mt-15">
-              <a href="single-blog.html">This is five Post For Blog</a>
-            </h3>
-            <p class="text">
-              Posted by HasTech dummy text of the printing and typesetting
-              industry. Lorem Ipsum has been the industrys standard dummy text
-              ever since the 1500s, when ...
-            </p>
-            <a class="read-more" href="single-blog.html">Read More</a>
-          </div>
-        </div>
-      </div>
-      <div class="col-12 col-md-6 col-lg-4 col-xl-4 mb-30">
-        <div class="single-blog text-start">
-          <a class="blog-thumb mb-20 zoom-in d-block overflow-hidden" href="single-blog.html">
-            <img src="view/assets/img/blog-post/1.png" alt="blog-thumb-naile" />
-          </a>
-          <div class="blog-post-content">
-            <p class="sub-title">
-              Posted by
-              <a class="blog-link" href="https://themeforest.net/user/hastech">HasTech</a>
-              12 Nov, 2023
-            </p>
-            <h3 class="title mb-15 mt-15">
-              <a href="single-blog.html">This is six Post For Blog</a>
-            </h3>
-            <p class="text">
-              Posted by HasTech dummy text of the printing and typesetting
-              industry. Lorem Ipsum has been the industrys standard dummy text
-              ever since the 1500s, when ...
-            </p>
-            <a class="read-more" href="single-blog.html">Read More</a>
-          </div>
-        </div>
-      </div>
-      <div class="col-12 col-md-6 col-lg-4 col-xl-4 mb-30">
-        <div class="single-blog text-start">
-          <a class="blog-thumb mb-20 zoom-in d-block overflow-hidden" href="single-blog.html">
-            <img src="view/assets/img/blog-post/3.png" alt="blog-thumb-naile" />
-          </a>
-          <div class="blog-post-content">
-            <p class="sub-title">
-              Posted by
-              <a class="blog-link" href="https://themeforest.net/user/hastech">HasTech</a>
-              12 Nov, 2023
-            </p>
-            <h3 class="title mb-15 mt-15">
-              <a href="single-blog.html">This is seven Post For Blog</a>
-            </h3>
-            <p class="text">
-              Posted by HasTech dummy text of the printing and typesetting
-              industry. Lorem Ipsum has been the industrys standard dummy text
-              ever since the 1500s, when ...
-            </p>
-            <a class="read-more" href="single-blog.html">Read More</a>
-          </div>
-        </div>
-      </div>
-      <div class="col-12 col-md-6 col-lg-4 col-xl-4 mb-30">
-        <div class="single-blog text-start">
-          <a class="blog-thumb mb-20 zoom-in d-block overflow-hidden" href="single-blog.html">
-            <img src="view/assets/img/blog-post/1.png" alt="blog-thumb-naile" />
-          </a>
-          <div class="blog-post-content">
-            <p class="sub-title">
-              Posted by
-              <a class="blog-link" href="https://themeforest.net/user/hastech">HasTech</a>
-              12 Nov, 2023
-            </p>
-            <h3 class="title mb-15 mt-15">
-              <a href="single-blog.html">This is eight Post For Blog</a>
-            </h3>
-            <p class="text">
-              Posted by HasTech dummy text of the printing and typesetting
-              industry. Lorem Ipsum has been the industrys standard dummy text
-              ever since the 1500s, when ...
-            </p>
-            <a class="read-more" href="single-blog.html">Read More</a>
-          </div>
-        </div>
-      </div>
-      <div class="col-12 col-md-6 col-lg-4 col-xl-4 mb-30">
-        <div class="single-blog text-start">
-          <a class="blog-thumb mb-20 zoom-in d-block overflow-hidden" href="single-blog.html">
-            <img src="view/assets/img/blog-post/2.png" alt="blog-thumb-naile" />
-          </a>
-          <div class="blog-post-content">
-            <p class="sub-title">
-              Posted by
-              <a class="blog-link" href="https://themeforest.net/user/hastech">HasTech</a>
-              12 Nov, 2023
-            </p>
-            <h3 class="title mb-15 mt-15">
-              <a href="single-blog.html">This is nine Post For Blog</a>
-            </h3>
-            <p class="text">
-              Posted by HasTech dummy text of the printing and typesetting
-              industry. Lorem Ipsum has been the industrys standard dummy text
-              ever since the 1500s, when ...
-            </p>
-            <a class="read-more" href="single-blog.html">Read More</a>
-          </div>
-        </div>
-      </div>
+      <!-- More blog posts here -->
     </div>
+
+    <!-- Pagination -->
     <div class="row">
       <div class="col-12">
         <nav class="pagination-section mt-30">
@@ -255,7 +119,7 @@
     </div>
   </div>
 </section>
-<!-- product tab end -->
+<!-- fashion block end -->
 
 <?php
 include "view/footer.php";

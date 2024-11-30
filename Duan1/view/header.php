@@ -49,6 +49,9 @@
               <li>
                 <a href="index.php?act=trang">Giới Thiệu</a>
               </li>
+              <li>
+                <a href="index.php?act=thongtin">Blog</a>
+              </li>
               <!-- <li>
                 <a href="index.php?act=thongtin">Tin Tức</a>
               </li> -->
@@ -64,11 +67,6 @@
                   <li> <!--tìm kiếm-->
                     <a class="offcanvas-toggle">
                       <span class="position-relative">
-                        <!-- <form id="search-form" action="#" method="post" class="d-flex">
-                          <input type="text" name="kyw" id="search-text" placeholder="Search..." required>
-                          <input type="submit" value="timkiem" id="search-submit">
-                          <button id="search_btn"><i class="fa-solid fa-search fa-l"></i></button>
-                        </form> -->
                       </span>
                     </a>
                   </li>
@@ -133,16 +131,6 @@
                       margin-right: 3px;
                     }
                   </style>
-                  <!-- listlove -->
-                  <!-- <li class="mr-xl-0 cart-block position-relative">
-                    <a class="offcanvas-toggle" href="#offcanvas-cart">
-                      <span class="position-relative">
-                      <i class="fa-solid fa-heart fa-l" style="color: #020203;"></i>
-                      </span>
-                    </a>
-                  </li> -->
-
-                  <!-- cart -->
                   <li>
                     <a  href="index.php?act=giohang">
                       <span class="position-relative">

@@ -37,7 +37,7 @@ if (isset($_GET['act']) && ($_GET['act'] != "")) {
             if (isset($_POST['kyw'])) {
                 $kyw = $_POST['kyw'];
             }
-            $listsp = loadall_sanpham_mausac_chitiet($iddm, $loc, $kyw);
+            $listsp = loadall_sanpham_mausac_chitiet($kyw, $iddm, $loc);
             include "view/shop.php";
             break;
 
@@ -200,12 +200,6 @@ if (isset($_GET['act']) && ($_GET['act'] != "")) {
                         "vnp_OrderType" => $vnp_OrderType,
                         "vnp_ReturnUrl" => $vnp_Returnurl,
                         "vnp_TxnRef" => $vnp_TxnRef,
-                        //
-                        // "vnp_Bill_ten_nguoinhan" =>$ten_nguoinhan,
-                        // "vnp_Bill_email_nguoinhan"=>$email_nguoinhan,
-                        // "vnp_Bill_diachi_nguoinhan" =>$diachi_nguoinhan,
-                        // "vnp_Bill_pttt"=>$pttt,
-                        // "vnp_Bill_ghichu"=>$ghichu
                     );
 
                     if (isset($vnp_BankCode) && $vnp_BankCode != "") {
@@ -398,9 +392,6 @@ if (isset($_GET['act']) && ($_GET['act'] != "")) {
             session_unset();
             include "view/account/dangnhap.php";
             break;
-            // case 'spyeuthich':
-            //     include "view/wishlist.php";
-            //     break;
 
         case 'thongtin':
             include "view/blog.php";
