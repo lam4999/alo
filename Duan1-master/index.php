@@ -3,11 +3,7 @@ ob_start();
 session_start();
 include "global.php";
 include "model/giohang.php";
-include "model/taikhoan.php";
-include "model/donhang.php";
-include "model/danhmuc.php";
-include "model/sanpham.php";
-include "model/binhluan.php";
+
 include "model/pdo.php";
 if (isset($taikhoan['id'])) {
     $id_user = $taikhoan['id'];
