@@ -58,6 +58,5 @@
 
 
 <div class="text-center" style="font-size: 13px ;margin-top:300px">
-  <p><b>Copyright Phần Mềm Quản Trị | Dev by Bùi Đỗ Đạt & Nguyễn Ngọc Khánh & Nguyễn Tuấn Anh
 </div>
 </main>

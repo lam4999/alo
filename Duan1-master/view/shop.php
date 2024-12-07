@@ -129,13 +129,6 @@
                         <?= $tensp ?>
                       </a>
                     </h3>
-                    <!-- <div class="star-rating">
-                    <span class="ion-ios-star"></span>
-                    <span class="ion-ios-star"></span>
-                    <span class="ion-ios-star"></span>
-                    <span class="ion-ios-star"></span>
-                    <span class="ion-ios-star de-selected"></span>
-                  </div> -->
                     <div class="d-flex align-items-center justify-content-between">
                       <?php
                       $gia = number_format($giamin, 0, ",", ".") . " - " . number_format($giamax, 0, ",", ".");

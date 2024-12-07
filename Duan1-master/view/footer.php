@@ -62,7 +62,7 @@
             <!-- footer-menu start -->
             <ul class="footer-menu">
               <li><a href="index.php?act=dangnhap">Đăng nhập</a></li>
-              <li><a href="index.php?act=taikhoanuser">Thông tin tài khoản</a></li>
+              <li><a href="index.php?act=edit_tk">Thông tin tài khoản</a></li>
             </ul>
             <!-- footer-menu end -->
           </div>

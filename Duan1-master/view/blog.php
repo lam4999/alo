@@ -75,7 +75,8 @@
       </div>
 
 
-      <div class="col-12 col-md-6 col-lg-4 col-xl-4 mb-30"> <div class="single-blog text-start">
+      <div class="col-12 col-md-6 col-lg-4 col-xl-4 mb-30">
+        <div class="single-blog text-start">
           <a class="blog-thumb mb-20 zoom-in d-block overflow-hidden" href="single-blog.html">
             <img src="upload/3,2.webp" alt="fashion-thumbnail-2" />
           </a>
@@ -89,7 +90,7 @@
               <a href="single-blog.html">Xu hướng mùa hè của phái nữ</a>
             </h3>
             <p class="text">
-             Mùa hè là mùa nóng nực lên cần phải dùng những tông vài mềm,mỏng,nhẽ dễ dàng thoát mồ hôi và thoáng gió...
+              Mùa hè là mùa nóng nực lên cần phải dùng những tông vài mềm,mỏng,nhẽ dễ dàng thoát mồ hôi và thoáng gió...
             </p>
             <a class="read-more" href="single-blog.html">Đọc thêm</a>
           </div>

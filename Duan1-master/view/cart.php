@@ -96,7 +96,7 @@
                   <th class="text-center" scope="col"></th>
                   <th class="text-center" scope="col">Hình ảnh</th>
                   <th class="text-center" scope="col" style="width:28%">Tên sản phẩm</th>
-                  <th class="text-center" scope="col">Thể tích</th>
+                  <th class="text-center" scope="col">Màu sắc</th>
                   <th class="text-center" scope="col">Tổng kho</th>
                   <th class="text-center" scope="col">Giá tiền</th>
                   <th class="text-center" scope="col">Số lượng</th>

@@ -53,7 +53,7 @@
           <div class="single-contact-block">
             <h4><i class="fa fa-phone"></i> Số điện thoại</h4>
             <p>
-              <a href="tel:987654321">Mobile:0354 948 492 </a>
+              <a href="tel:987654321">Mobile:0376 201 500 </a>
             </p>
             <p><a href="tel:0988753813">Hotline:0354948492 </a></p>
           </div>

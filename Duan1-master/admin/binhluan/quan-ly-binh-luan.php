@@ -49,7 +49,7 @@
                                 <tr>
                                     <td><?=$id?></td>
                                     <td><?=$noidung?></td>
-                                    <td><?=$ten?></td>
+                                    <td><a href="index.php?act=sanphamct&id_sanpham=<?= $id ?>"><?=$ten?></a></td>
                                     <td><?=$hoten?></td>
                                     <td><?=$ngaybinhluan?></td>
                                     

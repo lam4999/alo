@@ -136,8 +136,8 @@ input[type="text"] {
               <div class="col-lg-12 pttt">
               <label class="lb">Phương thức thanh toán:</label>
                 <div class="nut_radio" >
-                  <input type="radio" class="ip" name="id_pttt" value="1" checked> Thanh toán khi giao hàng (COD) <br>
-                  <input type="radio" class="ip" name="id_pttt" value="2"> Thanh toán bằng VNPAY
+                  <input type="radio" class="ip" name="id_pttt" value="1" checked> Thanh toán khi giao hàng (COD)   <br>
+                  <input type="radio" class="ip" name="id_pttt" value="2" disabled> Thanh toán bằng VNPAY
                 </div>
               </div>
               <div class="additional-info-wrap">

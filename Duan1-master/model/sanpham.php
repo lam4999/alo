@@ -165,6 +165,7 @@
             default:
                 $sql .= " ORDER BY sanpham.id ASC";
         }
+    
         // Thực thi câu truy vấn
         $spnew = pdo_query($sql);
         return $spnew;
